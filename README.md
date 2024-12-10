@@ -28,4 +28,5 @@ The project uses TensorFlow and Keras to construct and train the CNN, which is e
 * README.md: This file, which provides an overview of the project.
 
 ## 4. Results
-The main findings of the code can be found at the post on Medium available here
+The main findings of the code can be found at the post on Medium available [here](https://medium.com/@liuxingbei0726/cnn-model-for-image-classification-specifically-distinguishing-between-images-of-cats-and-dogs-713de863eca5)
+
