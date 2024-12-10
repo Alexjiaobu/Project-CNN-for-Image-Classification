@@ -8,6 +8,7 @@ This project was developed using Python, using Jupyter Notebook on Anaconda. wit
 * pandas
 * tensorflow
 * keras
+* import matplotlib.pyplot as plt: for data visualization
 * ImageDataGenerator : for Image Augmentation and data preprocessing
 * from tensorflow.keras.preprocessing.image
 * import image
