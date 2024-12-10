@@ -19,12 +19,12 @@ In this project, we are going to build up a convolutional neural network (CNN) t
 The project uses TensorFlow and Keras to construct and train the CNN, which is evaluated on a test set of images.
 
 ## 3. File Descriptions
-CNN for Image Classification.ipynb: Python script containing the model architecture, data preprocessing steps, training, and prediction logic.
+* CNN for Image Classification.ipynb: Python script containing the model architecture, data preprocessing steps, training, and prediction logic.
 
-train_set/: Directory containing the training set images of dogs and cats.
-test_set/: Directory containing the test set images of dogs and cats.
-single_prediction/: Folder containing images you want to predict as either dogs or cats.
-README.md: This file, which provides an overview of the project.
+* dataset/training_set: Directory containing the training set images of dogs and cats.
+* dataset/test_set: Directory containing the test set images of dogs and cats.
+* dataset/single_prediction: Folder containing images you want to predict as either dogs or cats.
+* README.md: This file, which provides an overview of the project.
 
 ## 4. Results
 The main findings of the code can be found at the post on Medium available here
